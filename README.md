@@ -26,7 +26,6 @@
 -   [Demonstração](#demonstração)
 -   [Inciando o Projeto](#iniciando-o-projeto)
 -   [ Como este projeto funciona](#como-este-projeto-funciona)
-
 -   [Tecnologia Utilizada](#tecnologia-utilizada)
 -   [Autor](#autor)
 
@@ -64,9 +63,10 @@ $ npm install
 
 ## 💭 Como este projeto funciona
 
-<p>Adicione ou remova suas tarefas</p>
-<p>Selecione apenas as tarefas que estão completas ou incompletas ou exiba todas</p>
-Para verificar como o projeto funciona ,teste pelo link [TodoList](https://rogeriopio.github.io/urna-eletronica/)
+Adicione ou remova suas tarefas
+Selecione apenas as tarefas que estão completas ou incompletas 
+Para verificar como o projeto funciona ,teste pelo link [TodoList](https://rogeriopio.github.io/todoList/)
+
 # Tecnologia Utilizada
 
 As seguintes ferramentas foram usadas na construção do projeto:
